@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="11" fill="#FCC145"/>
+<mask id="mask0_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
+<path d="M23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12Z" fill="#FCC145"/>
+</mask>
+<g mask="url(#mask0_7_448)">
+<rect x="5.25482" y="11.3059" width="3" height="12.6941" fill="#66C4FD"/>
+<rect x="16.0464" y="11.4767" width="3" height="11.6641" fill="#66C4FD"/>
+</g>
+<mask id="mask1_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="12" width="6" height="8">
+<ellipse cx="12" cy="16.1076" rx="2.90549" ry="3.17406" fill="black"/>
+</mask>
+<g mask="url(#mask1_7_448)">
+<ellipse cx="12" cy="16.1076" rx="2.90549" ry="3.17406" fill="#020202"/>
+<rect x="10.5472" y="13.5683" width="3.02645" height="2.62572" rx="0.5" fill="#F6FAFE"/>
+<path d="M14.1555 16.1076C14.1555 17.5102 13.1294 18.5316 12 18.5316C10.8706 18.5316 9.84448 17.5102 9.84448 16.1076C9.84448 14.705 10.8706 13.6835 12 13.6835C13.1294 13.6835 14.1555 14.705 14.1555 16.1076Z" stroke="#020202" stroke-width="1.5"/>
+</g>
+<path d="M4.97852 9.07436L7.97852 10.5441L4.97852 12.0744" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.0029 9.07436L16.0029 10.5441L19.0029 12.0744" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
