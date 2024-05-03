@@ -226,7 +226,7 @@
     padding: 0.5rem; /* 1rem from reaction divided by 2 */
 }
 
-#app-mount img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     width: 0 !important;
     height: 0 !important;
     min-height: 0 !important;
@@ -234,59 +234,59 @@
     background-size: cover;
 }
 
-#app-mount #autocomplete-0 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-0 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-1 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-1 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-2 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-2 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-3 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-3 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-4 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-4 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-5 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-5 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-6 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-6 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-7 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-7 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-8 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-8 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-9 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-9 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-10 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-10 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-11 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-11 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-12 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-12 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-13 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
+#app-mount #autocomplete-13 > div > div > div > img[src="/assets/b9a83d1ed85e3e344a8b.svg"] {
     padding: 10.5px;
 }
                 
@@ -294,17 +294,17 @@
     padding-bottom: 48px;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/c57f1b6f6049760e301f.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/b9a83d1ed85e3e344a8b.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
     display: flex;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/c57f1b6f6049760e301f.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/b9a83d1ed85e3e344a8b.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
     content: "";
     display: block;
     width: 20px;
     padding-bottom: 20px;
     margin-left: 0.2rem;
-    background-image: url("https://discord.com/assets/c57f1b6f6049760e301f.svg");
+    background-image: url("https://discord.com/assets/b9a83d1ed85e3e344a8b.svg");
     background-size: cover; 
 }
 
@@ -438,7 +438,7 @@
     padding: 0.5rem; /* 1rem from reaction divided by 2 */
 }
 
-#app-mount img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount img[src="/assets/c57f1b6f6049760e301f.svg"] {
     width: 0 !important;
     height: 0 !important;
     min-height: 0 !important;
@@ -446,59 +446,59 @@
     background-size: cover;
 }
 
-#app-mount #autocomplete-0 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-0 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-1 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-1 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-2 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-2 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-3 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-3 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-4 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-4 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-5 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-5 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-6 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-6 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-7 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-7 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-8 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-8 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-9 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-9 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-10 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-10 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-11 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-11 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-12 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-12 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-13 > div > div > div > img[src="/assets/578a868786e07850a386.svg"] {
+#app-mount #autocomplete-13 > div > div > div > img[src="/assets/c57f1b6f6049760e301f.svg"] {
     padding: 10.5px;
 }
                 
@@ -506,17 +506,17 @@
     padding-bottom: 48px;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/578a868786e07850a386.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/c57f1b6f6049760e301f.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
     display: flex;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/578a868786e07850a386.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/c57f1b6f6049760e301f.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
     content: "";
     display: block;
     width: 20px;
     padding-bottom: 20px;
     margin-left: 0.2rem;
-    background-image: url("https://discord.com/assets/578a868786e07850a386.svg");
+    background-image: url("https://discord.com/assets/c57f1b6f6049760e301f.svg");
     background-size: cover; 
 }
 
@@ -5844,7 +5844,7 @@
     padding: 0.5rem; /* 1rem from reaction divided by 2 */
 }
 
-#app-mount img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     width: 0 !important;
     height: 0 !important;
     min-height: 0 !important;
@@ -5852,59 +5852,59 @@
     background-size: cover;
 }
 
-#app-mount #autocomplete-0 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-0 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-1 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-1 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-2 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-2 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-3 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-3 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-4 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-4 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-5 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-5 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-6 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-6 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-7 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-7 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-8 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-8 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-9 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-9 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-10 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-10 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-11 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-11 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-12 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-12 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-13 > div > div > div > img[src="/assets/21c05c04370d98dc1b76.svg"] {
+#app-mount #autocomplete-13 > div > div > div > img[src="/assets/3bb3fbb7f68c10249a73.svg"] {
     padding: 10.5px;
 }
                 
@@ -5912,17 +5912,17 @@
     padding-bottom: 48px;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/21c05c04370d98dc1b76.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/3bb3fbb7f68c10249a73.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
     display: flex;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/21c05c04370d98dc1b76.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/3bb3fbb7f68c10249a73.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
     content: "";
     display: block;
     width: 20px;
     padding-bottom: 20px;
     margin-left: 0.2rem;
-    background-image: url("https://discord.com/assets/21c05c04370d98dc1b76.svg");
+    background-image: url("https://discord.com/assets/3bb3fbb7f68c10249a73.svg");
     background-size: cover; 
 }
 
@@ -5942,7 +5942,7 @@
     padding: calc(var(--custom-emoji-size-emoji) / 2);
 }
 
-#app-mount img[class="emoji"][data-name="😅"] {
+#app-mount img[class="emoji"][data-name="😈"] {
     /*width: 0;
     height: 0;
     min-height: 0;
@@ -6374,7 +6374,7 @@
     padding: 0.5rem; /* 1rem from reaction divided by 2 */
 }
 
-#app-mount img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     width: 0 !important;
     height: 0 !important;
     min-height: 0 !important;
@@ -6382,59 +6382,59 @@
     background-size: cover;
 }
 
-#app-mount #autocomplete-0 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-0 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-1 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-1 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-2 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-2 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-3 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-3 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-4 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-4 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-5 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-5 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-6 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-6 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-7 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-7 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-8 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-8 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-9 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-9 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-10 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-10 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-11 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-11 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-12 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-12 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
-#app-mount #autocomplete-13 > div > div > div > img[src="/assets/5fdd196412748b172336.svg"] {
+#app-mount #autocomplete-13 > div > div > div > img[src="/assets/3abc31e14d681a2e0f8f.svg"] {
     padding: 10.5px;
 }
                 
@@ -6442,17 +6442,17 @@
     padding-bottom: 48px;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/5fdd196412748b172336.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/3abc31e14d681a2e0f8f.svg"]:not([class="emoji jumboable"])) > div > div:first-child {
     display: flex;
 }
 
-#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/5fdd196412748b172336.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
+#app-mount div[style="flex: 1 1 auto;"]:has(img.emoji.jumboable[src="/assets/3abc31e14d681a2e0f8f.svg"]:not([class="emoji jumboable"])) > div > div:first-child::after {
     content: "";
     display: block;
     width: 20px;
     padding-bottom: 20px;
     margin-left: 0.2rem;
-    background-image: url("https://discord.com/assets/5fdd196412748b172336.svg");
+    background-image: url("https://discord.com/assets/3abc31e14d681a2e0f8f.svg");
     background-size: cover; 
 }
 
