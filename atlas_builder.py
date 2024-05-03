@@ -16,11 +16,19 @@ def replace_emoji_in_atlas(atlas_path, emoji_dir, config_path, emoji_size=(80, 8
     
     buffer_space = 30
     
+    used_positions = []
     for i in range(0, len(config['emojis'])):
         emoji_name = list(config['emojis'].keys())[i]
         position = str(config['emojis'][emoji_name]['position'])
 
         x, y = map(int, position.split(','))
+
+        if (x, y) in used_positions:
+            print("Stack:", used_positions)
+            print("Duplicate position:", (x, y))
+            return
+        used_positions.append((x, y))
+
         x -= 1
         y -= 1
         

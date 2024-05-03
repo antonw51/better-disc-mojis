@@ -7,7 +7,7 @@ anguished = { position = "42,2", emoji = "😧", discord_id = "b1e7c5e71d5e6b852
 astonished = { position = "2,3", emoji = "😲", discord_id = "b9a83d1ed85e3e344a8b" }
 cold_face = { position = "16,2", emoji = "🥶", discord_id = "becafe5ab638053621b8" }
 confounded = { position = "3,2", emoji = "😖", discord_id = "c57f1b6f6049760e301f" }
-confused = { position = "40,1", emoji = "😕", discord_id = "578a868786e07850a386" }
+confused = { position = "41,1", emoji = "😕", discord_id = "578a868786e07850a386" }
 cowboy = { position = "19,3", emoji = "🤠", discord_id = "d2835007fc134e3eea41" }
 cry = { position = "7,2", emoji = "😢", discord_id = "f5caf622bd0291b9f523" }
 disappointed = { position = "38,1", emoji = "😞", discord_id = "20d77e7234cb9860b8eb" }
@@ -23,7 +23,7 @@ face_with_spiral_eyes = { position = "9,3", emoji = "😵‍💫", discord_id = 
 frowning = { position = "41,2", emoji = "😦", discord_id = "2dbaa2a43fb9de17d663" }
 frowning2 = { position = "1,2", emoji = "☹️", discord_id = "9c3657727e0b3e3b999d" }
 grimacing = { position = "38,2", emoji = "😬", discord_id = "7cba7efd329d2fdd69fb" }
-grinning = { position = "2,1", emoji = "😀", discord_id = "6cec8716b466d02f9703" }
+grinning = { position = "1,1", emoji = "😀", discord_id = "6cec8716b466d02f9703" }
 head_bandage = { position = "17,3", emoji = "🤕", discord_id = "139cdb078c7ed4f3560f" }
 hot_face = { position = "15,2", emoji = "🥵", discord_id = "1424638f245cca2f0126" }
 imp = { position = "20,3", emoji = "👿", discord_id = "d866d256c735768a71a1" }
@@ -69,6 +69,6 @@ upside_down = { position = "15,1", emoji = "🙃", discord_id = "6e420b8ead5536a
 weary = { position = "5,2", emoji = "😩", discord_id = "790db73c4710e67ce248" }
 wink = { position = "16,1", emoji = "😉", discord_id = "09d62575fb7067417846" }
 woozy_face = { position = "11,3", emoji = "🥴", discord_id = "612d2bc5d16ae7d2a679" }
-worried = { position = "42,1", emoji = "😟", discord_id = "50d6842ad86241b2f4bd" }
+worried = { position = "40,1", emoji = "😟", discord_id = "50d6842ad86241b2f4bd" }
 yum = { position = "24,1", emoji = "😋", discord_id = "4484b267bdc98a0b28e8" }
 zany_face = { position = "28,1", emoji = "🤪", discord_id = "5fdd196412748b172336" }
