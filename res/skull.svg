@@ -1,9 +1,9 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M23 12.3331C23 18.4082 19.2432 20.2414 12 20.2414C4.75679 20.2414 1 18.4082 1 12.3331C1 6.25793 5.92485 1 12 1C18.0751 1 23 6.25793 23 12.3331Z" fill="#DBDEE1"/>
-<path d="M7.48761 18.5289V21.45" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
-<path d="M16.5953 18.5289V21.45" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
-<path d="M12 18.5289V21.45" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
-<circle cx="6.5" cy="12.4568" r="1.5" fill="#020202"/>
-<circle cx="17.5" cy="12.4568" r="1.5" fill="#020202"/>
-<path d="M10.5083 17.0129V17.0129C10.6518 15.1619 13.3648 15.1619 13.5083 17.0129V17.0129" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 12.5852C24 19.2126 19.9016 21.2124 12 21.2124C4.09831 21.2124 0 19.2126 0 12.5852C0 5.95774 5.37256 0.221817 12 0.221817C18.6274 0.221817 24 5.95774 24 12.5852Z" fill="#DBDEE1"/>
+<path d="M7.07739 19.3443V22.5309" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
+<path d="M17.0131 19.3443V22.5309" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
+<path d="M12 19.3443V22.5309" stroke="#DBDEE1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="6.00001" cy="12.7202" r="1.63636" fill="#020202"/>
+<circle cx="18" cy="12.7202" r="1.63636" fill="#020202"/>
+<path d="M10.3727 17.6904V17.6904C10.5293 15.6712 13.4888 15.6712 13.6454 17.6904V17.6904" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
 </svg>

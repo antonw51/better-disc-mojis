@@ -1,20 +1,20 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<mask id="mask0_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
-<path d="M23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12Z" fill="#FCC145"/>
+<circle cx="12" cy="12" r="12" fill="#FFC45F"/>
+<mask id="mask0_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0C18.6274 0 24 5.37258 24 12Z" fill="#FCC145"/>
 </mask>
 <g mask="url(#mask0_7_448)">
-<rect x="5.25482" y="11.3059" width="3" height="12.6941" fill="#66C4FD"/>
-<rect x="16.0464" y="11.4767" width="3" height="11.6641" fill="#66C4FD"/>
+<rect x="4.6416" y="11.2428" width="3.27273" height="13.8481" fill="#66C4FD"/>
+<rect x="16.4143" y="11.4292" width="3.27273" height="12.7244" fill="#66C4FD"/>
 </g>
-<mask id="mask1_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="12" width="6" height="8">
-<ellipse cx="12" cy="16.1076" rx="2.90549" ry="3.17406" fill="black"/>
+<mask id="mask1_7_448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="13" width="8" height="7">
+<ellipse cx="11.9999" cy="16.481" rx="3.16962" ry="3.46261" fill="black"/>
 </mask>
 <g mask="url(#mask1_7_448)">
-<ellipse cx="12" cy="16.1076" rx="2.90549" ry="3.17406" fill="#020202"/>
-<rect x="10.5472" y="13.5683" width="3.02645" height="2.62572" rx="0.5" fill="#F6FAFE"/>
-<path d="M14.1555 16.1076C14.1555 17.5102 13.1294 18.5316 12 18.5316C10.8706 18.5316 9.84448 17.5102 9.84448 16.1076C9.84448 14.705 10.8706 13.6835 12 13.6835C13.1294 13.6835 14.1555 14.705 14.1555 16.1076Z" stroke="#020202" stroke-width="1.5"/>
+<ellipse cx="11.9999" cy="16.481" rx="3.16962" ry="3.46261" fill="#020202"/>
+<rect x="10.4152" y="13.7109" width="3.30159" height="2.86442" rx="0.5" fill="#F6FAFE"/>
+<path d="M14.4196 16.481C14.4196 18.0429 13.2752 19.1936 11.9999 19.1936C10.7247 19.1936 9.58032 18.0429 9.58032 16.481C9.58032 14.9191 10.7247 13.7684 11.9999 13.7684C13.2752 13.7684 14.4196 14.9191 14.4196 16.481Z" stroke="#020202" stroke-width="1.5"/>
 </g>
-<path d="M4.97852 9.07436L7.97852 10.5441L4.97852 12.0744" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M19.0029 9.07436L16.0029 10.5441L19.0029 12.0744" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.34021 8.8084L7.61294 10.4118L4.34021 12.0811" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6396 8.8084L16.3669 10.4118L19.6396 12.0811" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

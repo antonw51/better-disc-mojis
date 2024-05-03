@@ -1,13 +1,13 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<path d="M9.0303 10.1964L8.7018 10.161C7.74053 10.0575 6.77562 10.3207 6 10.8979V10.8979" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<path d="M14.9697 10.1964L15.2982 10.161C16.2595 10.0575 17.2244 10.3207 18 10.8979V10.8979" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<mask id="mask0_1_112" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
+<circle cx="12" cy="12" r="12" fill="#FFC45F"/>
+<path d="M8.76035 10.0324L8.40198 9.99384C7.35332 9.8809 6.30069 10.168 5.45456 10.7977V10.7977" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<path d="M15.2397 10.0324L15.598 9.99384C16.6467 9.8809 17.6993 10.168 18.5454 10.7977V10.7977" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<mask id="mask0_1_112" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<circle cx="12" cy="12" r="12" fill="#FCC145"/>
 </mask>
 <g mask="url(#mask0_1_112)">
-<path d="M1 13.2019V13.2019C7.85769 16.8307 16.1307 16.8087 23 13.2019V13.2019" stroke="#949BA4" stroke-width="2" stroke-linecap="round"/>
-<path d="M2 19L8.76585 18.2663C10.9157 18.0332 13.0843 18.0332 15.2341 18.2663L22 19" stroke="#949BA4" stroke-width="2" stroke-linecap="round"/>
+<path d="M0 13.3111V13.3111C7.48112 17.2698 16.5062 17.2458 24 13.3111V13.3111" stroke="#949BA4" stroke-width="2" stroke-linecap="round"/>
+<path d="M1.09091 19.6364L8.76586 18.8041C10.9157 18.571 13.0844 18.571 15.2341 18.8041L22.9091 19.6364" stroke="#949BA4" stroke-width="2" stroke-linecap="round"/>
 </g>
-<rect x="7" y="14" width="10" height="6" rx="1" fill="#F0F7FE"/>
+<rect x="6.54544" y="14.1818" width="10.9091" height="6.54545" rx="1" fill="#F0F7FE"/>
 </svg>

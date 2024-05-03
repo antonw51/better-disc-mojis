@@ -1,29 +1,29 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<path d="M10 18.4852V18.4852C11.3021 18.077 12.6979 18.077 14 18.4852V18.4852" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="6.5" cy="15.5973" r="1.5" fill="#020202"/>
-<circle cx="17.5" cy="15.5973" r="1.5" fill="#020202"/>
-<mask id="mask0_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
+<circle cx="11.9544" cy="12" r="11.9178" fill="#FFC45F"/>
+<path d="M9.78754 19.0263V19.0263C11.1983 18.5841 12.7105 18.5841 14.1213 19.0263V19.0263" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="5.99552" cy="15.8974" r="1.62516" fill="#020202"/>
+<circle cx="17.9133" cy="15.8974" r="1.62516" fill="#020202"/>
+<mask id="mask0_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<circle cx="11.9544" cy="12" r="11.9178" fill="#FCC145"/>
 </mask>
 <g mask="url(#mask0_1_206)">
-<path d="M23.2128 13.1207L13.7141 8.88372L22.996 5.94742L23.2128 13.1207Z" fill="#F0F7FE"/>
+<path d="M24.1027 13.2142L13.8115 8.62371L23.8678 5.44241L24.1027 13.2142Z" fill="#F0F7FE"/>
 </g>
-<mask id="mask1_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="13" y="5" width="11" height="9">
-<path d="M23.2128 13.1207L13.7141 8.88372L22.996 5.94742L23.2128 13.1207Z" fill="#F0F7FE"/>
+<mask id="mask1_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="13" y="5" width="12" height="9">
+<path d="M24.1027 13.2142L13.8115 8.62371L23.8678 5.44241L24.1027 13.2142Z" fill="#F0F7FE"/>
 </mask>
 <g mask="url(#mask1_1_206)">
-<mask id="mask2_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
+<mask id="mask2_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<circle cx="11.9544" cy="12" r="11.9178" fill="#FCC145"/>
 </mask>
 <g mask="url(#mask2_1_206)">
-<path d="M23 8.27502L20.3704 8.48016C18.188 8.65042 16.0308 9.05902 13.9374 9.69867L13.0272 9.97678" stroke="#B5BAC1" stroke-width="3"/>
+<path d="M23.8722 7.96422L20.7493 8.20785C18.5669 8.3781 16.4097 8.7867 14.3162 9.42636L13.0673 9.80796" stroke="#B5BAC1" stroke-width="3"/>
 </g>
 </g>
-<mask id="mask3_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
+<mask id="mask3_1_206" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<circle cx="11.9544" cy="12" r="11.9178" fill="#FCC145"/>
 </mask>
 <g mask="url(#mask3_1_206)">
-<path d="M0.263428 12.914L6.96505 9.44933C9.19921 8.29429 11.5745 7.42447 14.026 6.86246V6.86246C17.5664 6.05078 21.2317 5.89028 24.8292 6.39172V6.39172" stroke="#F0F7FE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-0.761414 12.9903L6.77188 9.09563C9.01149 7.93776 11.3881 7.06684 13.8456 6.50345L14.5792 6.33526C18.1356 5.51995 21.8108 5.36022 25.4244 5.8639L25.8541 5.92378" stroke="#F0F7FE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>

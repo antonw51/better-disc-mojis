@@ -1,8 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<circle cx="6.5" cy="12.5" r="1.5" fill="#020202"/>
-<circle cx="17.5" cy="12.5" r="1.5" fill="#020202"/>
-<path d="M7.0303 9.1964L6.7018 9.16102C5.74053 9.0575 4.77562 9.32065 4 9.89786V9.89786" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<path d="M16 6L16.1495 6.02492C17.5225 6.25375 18.7661 6.97246 19.6499 8.04791V8.04791" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<path d="M8 17.1466H16" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="12" cy="12" r="12" fill="#FFC45F"/>
+<circle cx="6.00001" cy="12.5455" r="1.63636" fill="#020202"/>
+<circle cx="18" cy="12.5455" r="1.63636" fill="#020202"/>
+<path d="M6.57849 8.94154L6.22012 8.90294C5.17147 8.79001 4.11883 9.07708 3.27271 9.70677V9.70677" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<path d="M16.3636 5.45454L16.5267 5.48172C18.0246 5.73137 19.3812 6.51541 20.3454 7.68863V7.68863" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<path d="M7.63635 17.6145H16.3636" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

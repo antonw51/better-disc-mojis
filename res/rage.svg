@@ -1,10 +1,10 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#F23F43"/>
-<path d="M6 11L9 12" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<path d="M18 11L15 12" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<circle cx="7.53162" cy="13.5316" r="1.53162" fill="#020202"/>
-<circle cx="1.53162" cy="1.53162" r="1.53162" transform="matrix(-1 0 0 1 18 12)" fill="#020202"/>
-<path d="M9.49307 17.7902V17.7902C10.6815 15.9935 13.3186 15.9935 14.5069 17.7902V17.7902" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<rect x="6" y="12" width="3.06323" height="1.91359" fill="#020202"/>
-<rect x="15" y="12" width="3.06323" height="1.91359" fill="#020202"/>
+<circle cx="12" cy="12" r="12" fill="#F23F43"/>
+<path d="M5.45456 10.9091L8.72729 12" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<path d="M18.5455 10.9091L15.2727 12" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<circle cx="7.12541" cy="13.6709" r="1.67085" fill="#020202"/>
+<circle cx="1.67085" cy="1.67085" r="1.67085" transform="matrix(-1 0 0 1 18.5455 12)" fill="#020202"/>
+<path d="M9.26517 18.3166V18.3166C10.5616 16.3566 13.4384 16.3566 14.7348 18.3166V18.3166" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<rect x="5.45456" y="12" width="3.34171" height="2.08755" fill="#020202"/>
+<rect x="15.2727" y="12" width="3.34171" height="2.08755" fill="#020202"/>
 </svg>

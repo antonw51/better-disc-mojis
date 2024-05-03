@@ -1,6 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<circle cx="6.5" cy="11.3521" r="1.5" fill="#020202"/>
-<circle cx="17.5" cy="11.3521" r="1.5" fill="#020202"/>
-<path d="M10.1353 18.5967V18.5967C11.2082 17.6765 12.7918 17.6765 13.8647 18.5967V18.5967" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<circle cx="12" cy="12" r="12" fill="#FFC45F"/>
+<circle cx="6.00001" cy="11.2932" r="1.63636" fill="#020202"/>
+<circle cx="18" cy="11.2932" r="1.63636" fill="#020202"/>
+<path d="M9.96582 19.1964V19.1964C11.1362 18.1926 12.8638 18.1926 14.0342 19.1964V19.1964" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
 </svg>

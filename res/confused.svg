@@ -1,8 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="11" fill="#FCC145"/>
-<path d="M16 9L19 10" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<path d="M8 9L5 10" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
-<circle cx="17.5316" cy="11.5316" r="1.53162" fill="#020202"/>
-<circle cx="1.53162" cy="1.53162" r="1.53162" transform="matrix(-1 0 0 1 8 10)" fill="#020202"/>
-<path d="M14.9861 16H13.5182C11.9511 16 10.4051 16.3609 9 17.0548V17.0548" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="12" cy="12" r="12" fill="#FFC45F"/>
+<path d="M16.3636 8.72728L19.6364 9.81819" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<path d="M7.63635 8.72728L4.36363 9.81819" stroke="#020202" stroke-width="2" stroke-linecap="round"/>
+<circle cx="18.0345" cy="11.489" r="1.67085" fill="#020202"/>
+<circle cx="1.67085" cy="1.67085" r="1.67085" transform="matrix(-1 0 0 1 7.63635 9.81818)" fill="#020202"/>
+<path d="M15.2575 16.3636H13.6562C11.9467 16.3636 10.2601 16.7574 8.72726 17.5143V17.5143" stroke="#020202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
