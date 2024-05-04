@@ -50,7 +50,7 @@ Additionally, to allow for your emoji to render, you'll need to fork the directo
 repository="https://github.com/your-user/your-fork-repo"
 ```
 
-Once you've added your emoji and linked your repositoy, you're ready to re-build the theme.
+Once you've added your emoji and linked your repository, you're ready to re-build the theme.
 
 ### Building
 
@@ -60,7 +60,9 @@ Building the theme can be done with a simple command:
 $ python3 atlas_builder.py source_atlas.png res emojis.toml && python3 css_builder.py
 ```
 
-This 
+This command will build your emojis and create a `updated_atlas.png`, you need to move this image into the `res/` folder.
+
+You can load the generated theme into your client, and your emojis will be visible upon refresh once the `raw.githubusercontent` links to your repository update.
 
 ## Contributions
 
