@@ -39,9 +39,10 @@ When adding new emojis to the set, you may want to add them to the theme, this c
 To add an emoji to the existing set, make sure you have selected a default discord emoji to replace and add an entry to the `emojis.toml` file
 
 Your emoji should have these three fields, albeit optional if left blank. Your emoji must however be titled after an existing emoji in discord:
-    - **position**: (For your emoji to show up in the emoji picker) Look at the `source-atlas.png` file and find the emoji you wish to replace, count the grid spots (starting from 1, 1 in the top-left corner) and add that position to this entry (e.g. "13,2")
-    - **emoji**: (For your emoji to show up in reactions) Send the emoji you plan to replace and _from the chat_ copy the emoji and paste it into this entry. This value must be a unicode emoji and not a discord emoji (e.g. ":dizzy_face:") or a null unicode character (e.g. "�").
-    - **discord_id**: (For your emoji to show up in the suggestions bar) Again send the emoji you plan to replace in a discord chat, but this time _from the chat_ right click it and select _"Copy Link"_ paste this link somewhere and extract the part after "assets/" but trim off the suffixing ".svg", leaving you with a id for this field (e.g. "578a868786e07850a386", not "https://discord.com/assets/578a868786e07850a386.svg" nor "578a868786e07850a386.svg").
+
+- **position**: (For your emoji to show up in the emoji picker) Look at the `source-atlas.png` file and find the emoji you wish to replace, count the grid spots (starting from 1, 1 in the top-left corner) and add that position to this entry (e.g. "13,2")
+- **emoji**: (For your emoji to show up in reactions) Send the emoji you plan to replace and _from the chat_ copy the emoji and paste it into this entry. This value must be a unicode emoji and not a discord emoji (e.g. ":dizzy_face:") or a null unicode character (e.g. "�").
+- **discord_id**: (For your emoji to show up in the suggestions bar) Again send the emoji you plan to replace in a discord chat, but this time _from the chat_ right click it and select _"Copy Link"_ paste this link somewhere and extract the part after "assets/" but trim off the suffixing ".svg", leaving you with a id for this field (e.g. "578a868786e07850a386", not "https://discord.com/assets/578a868786e07850a386.svg" nor "578a868786e07850a386.svg").
 
 Additionally, to allow for your emoji to render, you'll need to fork the directory and publicize your own, then replace the [setup.repository] field with a link to your forked github repository:
 ```toml
