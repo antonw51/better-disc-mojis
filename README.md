@@ -1,3 +1,6 @@
+> [!WARNING]
+> At the time of this notice, better-disc-mojis will have been archived. Primarily because the theme's broke less than a few weeks after their release. If you want to respin the project, you're welcome to, but as of this time, this will remain an read-only archive to share the `.svg`:s and `.png`:s.
+
 # better-disc-mojis
 
 The emoji theme for discord's alternative emoji style, as seen on the message bar emoji button on desktop.
